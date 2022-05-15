@@ -1,0 +1,38 @@
+C:\Users\New\source\repos\DatorKlubs\bin\Debug\DatorKlubs.exe.config
+C:\Users\New\source\repos\DatorKlubs\bin\Debug\DatorKlubs.exe
+C:\Users\New\source\repos\DatorKlubs\bin\Debug\DatorKlubs.pdb
+C:\Users\New\source\repos\DatorKlubs\bin\Debug\EntityFramework.dll
+C:\Users\New\source\repos\DatorKlubs\bin\Debug\EntityFramework.xml
+C:\Users\New\source\repos\DatorKlubs\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\New\source\repos\DatorKlubs\obj\Debug\DatorKlubs.csproj.AssemblyReference.cache
+C:\Users\New\source\repos\DatorKlubs\obj\Debug\DatorKlubs.csproj.CoreCompileInputs.cache
+C:\Users\New\source\repos\DatorKlubs\obj\Debug\DatorKlubs.exe
+C:\Users\New\source\repos\DatorKlubs\obj\Debug\DatorKlubs.pdb
+C:\Users\bezdo\Desktop\Projekts\DatorKlubs\obj\Debug\DatorKlubs.csproj.AssemblyReference.cache
+C:\Users\bezdo\Desktop\Projekts\DatorKlubs\obj\Debug\DatorKlubs.csproj.SuggestedBindingRedirects.cache
+C:\Users\bezdo\Desktop\Projekts\DatorKlubs\obj\Debug\DatorKlubs.csproj.CoreCompileInputs.cache
+C:\Users\bezdo\Desktop\Projekts\DatorKlubs\obj\Debug\DatorKlubs.exe
+C:\Users\bezdo\Desktop\Projekts\DatorKlubs\obj\Debug\DatorKlubs.pdb
+C:\Users\bezdo\Desktop\Projekts\DatorKlubs\bin\Debug\DatorKlubs.mdf
+C:\Users\bezdo\Desktop\Projekts\DatorKlubs\bin\Debug\DatorKlubs_log.ldf
+C:\Users\bezdo\Desktop\Projekts\DatorKlubs\bin\Debug\EntityFramework.dll
+C:\Users\bezdo\Desktop\Projekts\DatorKlubs\bin\Debug\EntityFramework.xml
+C:\Users\bezdo\Desktop\Projekts\DatorKlubs\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\bezdo\Desktop\Projekts\DatorKlubs\obj\Debug\DatorKlubs.csproj.CopyComplete
+C:\Users\bezdo\Desktop\Projekts\DatorKlubs\bin\Debug\DatorKlubs.exe.config
+C:\Users\bezdo\Desktop\Projekts\DatorKlubs\bin\Debug\DatorKlubs.exe
+C:\Users\bezdo\Desktop\Projekts\DatorKlubs\bin\Debug\DatorKlubs.pdb
+C:\Users\tatja\OneDrive\Рабочий стол\Projekts\DatorKlubs\bin\Debug\DatorKlubs.mdf
+C:\Users\tatja\OneDrive\Рабочий стол\Projekts\DatorKlubs\bin\Debug\DatorKlubs_log.ldf
+C:\Users\tatja\OneDrive\Рабочий стол\Projekts\DatorKlubs\bin\Debug\DatorKlubs.exe.config
+C:\Users\tatja\OneDrive\Рабочий стол\Projekts\DatorKlubs\bin\Debug\DatorKlubs.exe
+C:\Users\tatja\OneDrive\Рабочий стол\Projekts\DatorKlubs\bin\Debug\DatorKlubs.pdb
+C:\Users\tatja\OneDrive\Рабочий стол\Projekts\DatorKlubs\bin\Debug\EntityFramework.dll
+C:\Users\tatja\OneDrive\Рабочий стол\Projekts\DatorKlubs\bin\Debug\EntityFramework.xml
+C:\Users\tatja\OneDrive\Рабочий стол\Projekts\DatorKlubs\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\tatja\OneDrive\Рабочий стол\Projekts\DatorKlubs\obj\Debug\DatorKlubs.csproj.AssemblyReference.cache
+C:\Users\tatja\OneDrive\Рабочий стол\Projekts\DatorKlubs\obj\Debug\DatorKlubs.csproj.SuggestedBindingRedirects.cache
+C:\Users\tatja\OneDrive\Рабочий стол\Projekts\DatorKlubs\obj\Debug\DatorKlubs.csproj.CoreCompileInputs.cache
+C:\Users\tatja\OneDrive\Рабочий стол\Projekts\DatorKlubs\obj\Debug\DatorKlubs.csproj.CopyComplete
+C:\Users\tatja\OneDrive\Рабочий стол\Projekts\DatorKlubs\obj\Debug\DatorKlubs.exe
+C:\Users\tatja\OneDrive\Рабочий стол\Projekts\DatorKlubs\obj\Debug\DatorKlubs.pdb
